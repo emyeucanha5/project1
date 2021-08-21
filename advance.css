@@ -180,22 +180,24 @@
 .grid{
   display: grid;
   height: 70px;
-  width: 100%;
+  width: 80%;
   grid-template-columns:  auto auto;
 }
 .grid1st{
-  padding-top: 30px;
-  padding-left: 40px;
+  padding-top: 15px;
+  padding-left: 20px;
   height: 70px;
+  width: 30%;
 }
 .grid2nd{
-  padding: 25px;
+  padding: 13px;
   height: 70px;
   text-align: center;
+
 }
 
 .boxlen{
-  width: 550px;
+  width: auto;
 
     text-align: left;
     padding-right: 16px;
@@ -207,7 +209,7 @@
     padding: 1px 8px;
 }
 .boxlen1{
-  width: 257px;
+  width: 37%;
   text-align: left;
     padding-right: 16px;
     border-radius: 1px;
@@ -218,7 +220,7 @@
     padding: 1px 8px;
 }
 .boxlen2{
-  width: 257px;
+  width: 37%;
   text-align: left;
     padding-right: 16px;
     border-radius: 1px;
